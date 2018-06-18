@@ -1,0 +1,7 @@
+development:
+  adapter:  "sqlserver"
+  host:     "<host or ipaddress>"
+  username: "<user id>"
+  password: "<password>"
+  database: "<db name>"
+  
